@@ -4,7 +4,7 @@ import { AppRouter } from "./router"
 import { store } from "./store";
 
 export const CalendarApp = () => {
-    const routerStatus = 'authenticated';
+    const routerStatus = 'unauthenticated';
     
     return (
         <Provider store={ store }>

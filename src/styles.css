@@ -1,4 +1,8 @@
 /* Modal */
+body {
+    background: rgb(26, 30, 41);
+}
+
 .ReactModalPortal > div{
     opacity: 0;
 }
